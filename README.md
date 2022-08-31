@@ -3,12 +3,12 @@
 
 <h4>My projects:</h4>
 
-📋 <a href='https://maria-batskalevich.github.io/it-inc-todolist/' target="blank">Todolist </a><br>
+📋 <a href='https://maria-batskalevich.github.io/it-inc-todolist/' target="_blank">Todolist </a><br>
 This project helps to better organize the planning of your affairs.<br> <b>Technologies that used here : TypeScript, React, Redux, Redux-thunk, Hooks, Axios , Material UI, Formik, tests. </b>
 
-👾 <a href='https://maria-batskalevich.github.io/it-inc-social-network/' target="blank"> Social network </a><br><b>Technologies that used here :TypeScript, Redux, Hooks, REST API. <b>
+👾 <a href='https://maria-batskalevich.github.io/it-inc-social-network/' target="_blank"> Social network </a><br><b>Technologies that used here :TypeScript, Redux, Hooks, REST API. <b>
 
-🐑 <a href='https://maria-batskalevich.github.io/it-inc-counter/' target="blank"> Counter </a><br> <b>
+🐑 <a href='https://maria-batskalevich.github.io/it-inc-counter/' target="_blank"> Counter </a><br> <b>
 Small train project with TypeScript,React, Locale storage, Hooks, CSS.</b>
 
 🎯 I'm always up for new connections and collaborations<br>
