@@ -9,7 +9,7 @@ This project helps to better organize the planning of your affairs.<br> <b>Techn
 👾 <a href='https://maria-batskalevich.github.io/it-inc-social-network/' target="_blank"> Social network </a><br><b>Technologies that used here :TypeScript, Redux, Hooks, REST API. <b>
 
 🐑 <a href='https://maria-batskalevich.github.io/it-inc-counter/' target="_blank"> Counter </a><br> <b>
-Small train project with TypeScript,React, Locale storage, Hooks, CSS.</b>
+Small train project with TypeScript,React, Redux, Locale storage, Hooks, CSS.</b>
 
 🎯 I'm always up for new connections and collaborations<br>
 🖤 Technologies I use (I'm always looking forward to expand my area of expertise):<br>
