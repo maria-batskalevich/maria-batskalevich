@@ -8,9 +8,13 @@ This project helps to better organize the planning of your affairs.<br> <b>Techn
 
 👾 <a href='https://maria-batskalevich.github.io/it-inc-social-network/' target="_blank"> Social network </a><br><b>Technologies that used here :TypeScript, Redux, Hooks, REST API. <b>
 
-🐑 <a href='https://maria-batskalevich.github.io/it-inc-counter/' target="_blank"> Counter </a><br> <b>
+🐑 <a href='https://maria-batskalevich.github.io/it-inc-homeworks-react-ignat/#/pre-junior
+' target="_blank"> Homework </a><br> <b>
+ Homework with TypeScript, React, HTML/CSS, JS .</b>
+  
+💻 <a href='https://maria-batskalevich.github.io/it-inc-counter/' target="_blank"> Counter </a><br> <b>
 Small train project with TypeScript,React, Redux, Locale storage, Hooks, CSS.</b>
-
+ 
 🎯 I'm always up for new connections and collaborations<br>
 🖤 Technologies I use (I'm always looking forward to expand my area of expertise):<br>
 React Redux TypeScript JavaScript HTML5 CSS3 CSS Axios Formik Redux-thunk REST API Jest Github StoryBook Material-UI
