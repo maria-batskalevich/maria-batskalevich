@@ -32,5 +32,5 @@ More about me:<br>
 🌏 I love to travel<br>
 
 🤍 Сontact me:<br>
-<a href="https://t.me/maria_batskalevich" target="_blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Telegram" height="40" width="40" /></a>
+<a href="https://t.me/maryia_batskalevich" target="_blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="Telegram" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/maria-batskalevich-18b289230/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="linkedIn" height="40" width="40" /></a>
